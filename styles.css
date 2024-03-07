@@ -1,0 +1,118 @@
+.top {
+    display: flex;
+}
+p {
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon {
+    color: white;
+    height: 50px;
+    width: 80px;
+}
+.p {
+    width: 400px;
+    height: 50px;
+    color: white;
+    background-color: orange;
+    margin-right: 20px;
+    display: flex;
+}
+h3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    font-size: large;
+}
+.h3 {
+    width: 800px;
+    height: 50px;
+    color: white;
+    background-color: orange;
+    display: flex;
+}
+
+.content {
+    display: flex;
+}
+.calc {
+    width: 400px;
+    height: 450px;
+    margin-top: 10px;
+    border: 4px solid orange;
+    margin-right: 20px;
+}
+.list {
+    width: 800px;
+    height: 450px;
+    margin-top: 10px;
+    border: 4px solid orange;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid orange;
+    text-align: left;
+    padding: 8px;
+  }
+
+.p-ging {
+    width: 520px;
+    height: 35px;
+    color: white;
+    background-color: orange;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    border-radius: 6px;
+}
+.d-very {
+    width: 520px;
+    height: 35px;
+    color: white;
+    background-color: orange;
+    padding-top: 8px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+button {
+    margin-left: 30px;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    color: orange;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+button:hover {
+    color: orange;
+    background-color: black;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.tot {
+    width: 520px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    padding-top: 8px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 6px;
+    font-size:xx-large;
+}
+.tot.absolute {
+    position: absolute;
+    bottom: 10px;
+    width: 50%;
+    border: 3px solid #8AC007;
+  }
+
